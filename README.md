@@ -1,4 +1,4 @@
-# nn-text-gen
+# Text Generation using an RNN and a Transformer
 
 This repository contains PyTorch implementations of neural networks for text generation. Specifically, it includes an RNN-based character-level model and a Transformer-based model trained on classic literary texts from Project Gutenberg.
 
